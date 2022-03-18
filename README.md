@@ -1,4 +1,4 @@
-# VHDL Project to display DDMM DoB on 7-segment display followed by unique LED sequence. 
+# VHDL Project to display DDMM DoB on 7-segment display followed by unique LED sequence
 
 # Relevant links
 
